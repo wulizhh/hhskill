@@ -2,10 +2,10 @@
 name: ai_daily_briefing
 description: "每日 AI 效率日报 - 自动扫描全球 AI 动态，筛选高价值信息生成个人情报日报"
 metadata:
-  builtin_skill_version: "1.1"
-  copaw:
-    emoji: "📊"
-    requires: {}
+   builtin_skill_version: "1.1"
+   copaw:
+      emoji: "📊"
+      requires: {}
 ---
 
 # AI Daily Briefing
